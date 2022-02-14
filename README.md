@@ -1,6 +1,6 @@
  👋 Hi, I’m Mohamed Abd El-Meged
 - 👀 I’m interested in Software engineering 
-- 🌱 I’m currently working at Mindeavors.com
+- 🌱 I’m currently working at Mindeavors int
 - :speech_balloon: Ask me about Ruby , Ruby on Rails , Redis , ElasticSearch , Kafka , gRPC , RabbitMQ
 - 📫 How to reach me : mabdelmeged.se@gmail.com
 
