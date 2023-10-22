@@ -1,7 +1,6 @@
- 👋 Hi, I’m Mohamed Abd El-Meged
-- 👀 I’m interested in Software engineering 
+ 👋 Hi, I’m Mohamed Abd El-Meged, Software Engineer II
 - 🌱 I’m currently working at Zyda
-- :speech_balloon: Ask me about Ruby , Ruby on Rails , MySQL , Docker , Redis , ElasticSearch , Kafka , gRPC , RabbitMQ 
+- :speech_balloon: Ask me about Ruby , Ruby on Rails , Django , MySQL , Docker , Redis , ElasticSearch , Kafka , 
 - 📫 How to reach me : mabdelmeged.se@gmail.com
 
 <!---
